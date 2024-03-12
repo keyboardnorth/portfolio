@@ -23,7 +23,7 @@
 * math.ceil
 * torch (nn)
 * torchvision.models (transforms)
-* transformers
+* transformers (Bert)
 * tqdm.notebook
 * sklearn (GroupShuffleSplit, LinearRegression, Ridge, mean_absolute_error)
 
