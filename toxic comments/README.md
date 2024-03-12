@@ -15,7 +15,7 @@
 * pandas
 * numpy
 * torch
-* transformers
+* transformers (Bert)
 * tqdm.notebook
 * wordcloud
 * spacy
